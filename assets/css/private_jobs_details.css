@@ -1,0 +1,78 @@
+.jdwrap {
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #bcbbbb;
+    margin-top: 20px;
+}
+.jobprof_title {
+    font-size: 18px;
+    color: #1376c4;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+.jdrow {
+    display: block;
+    padding: 15px;
+    border-bottom: 1px solid #d9d7d7;
+}
+.jdtitle {
+    vertical-align: top;
+    width: 30%;
+    display: inline-block;
+    color: #6e6d6d;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+.pico {
+    width: 30px;
+    padding-right: 7px;
+}
+.jdcont {
+    vertical-align: top;
+    width: 67%;
+    word-wrap: break-word;
+    display: inline-block;
+}
+.sal_jdrow {
+    border-bottom: 0px;
+}
+
+.jobprof_wrap {
+    border: 1px solid #bcbbbb;
+    background: #fff;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 350px) {
+.jdrow {
+    padding: 15px 2px;
+}
+}
+
+
+@media only screen and (max-width: 460px) {
+.jdtitle {
+    width: auto;
+    min-width: 50%;
+}
+}
+
+@media only screen and (max-width: 460px) {
+.jdcont {
+    padding-left: 5px;
+    width: 45%;
+    vertical-align: top;
+}
+}
+
+
+
+
+
+

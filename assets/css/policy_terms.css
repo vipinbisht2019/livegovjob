@@ -1,0 +1,15 @@
+
+.sidebr_widget{display: block;margin: 0px;width: 300px;background: #718ec1;}
+.lilistwidget a{display: block;padding-bottom: 2px;padding-top: 9px;margin: 0px;color: #ffffff;font-family: Arial, Helvetica, sans-serif;font-size: 13px;font-weight: normal;text-decoration: none;list-style-type: none;border-bottom: 1px solid #dbe2ef;
+}
+.ullistwidget {list-style-type: none;padding: 0px;margin-left: 10px;margin-right: 10px;list-style-type: none;text-align:left;margin-top: 0;margin-bottom: 0;}
+.lilistwidget{padding:0;}
+@media (max-width:673px) {.sidebr_widget{margin-left:auto;margin-right:auto;}}
+
+
+#jobs_right1,#jobs_right2,#jobs_right3{width: 300px;float: left;text-align: left;border: 1px solid #d1d2d3;}
+#jobs_right1 .right_box_head ,#jobs_right2 .right_box_head,#jobs_right3 .right_box_head{width: 300px;height: 29px;line-height: 29px;color: #fff;background-color: #2e8bad;text-indent: 12px;
+font-size: 14px;font-weight: bold;margin: 0;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+#jobs_right1 .right_box_content ,#jobs_right2 .right_box_content,#jobs_right3 .right_box_content{float: left;width: 100%;margin: 2px 0 2px 5px;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;font-size: 14px;padding-bottom:8px;}
+#jobs_right1 .right_box_content:hover,#jobs_right2 .right_box_content:hover,#jobs_right3 .right_box_content:hover{text-decoration:underline;}
+.right_box_content a {color: #0088cc;text-decoration: none;}
